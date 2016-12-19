@@ -47,7 +47,7 @@ for i, post_id in enumerate(post_ids):
 		names += matches
 		j += 1
 
-		if names_found <= 0 or j > 5:
+		if names_found <= 0:
 			break
 
 print 'Making Excel file...'
