@@ -1,2 +1,2 @@
 # FacebookScraper
-Gets people who have shared a Facebook post
+Gets people who have publicly shared a Facebook post
